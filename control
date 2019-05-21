@@ -1,0 +1,9 @@
+Package: com.bruceshi.ptrace-mock
+Name: ptrace-mock
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Bo Shi
+Author: Bo Shi
+Section: Tweaks
